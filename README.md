@@ -25,7 +25,7 @@
 - 实现移动端支付方案 支持H5、APP、小程序
 - 轻松支持多账户收款 赶快使用手机扫码体验吧
 
-    ![](http://xpay.exrick.cn/assets/images/mobiletest.png)
+    ![](http://xpay.exrick.cn/assets/images/mobiletest.png)ss 
 
 #### 注：v3.0源码（含原理及详细文档）获取方式 
 - 进入 [XPay官网](http://xpay.exrick.cn/pay) 成功支付测试后 将自动发至你所填写的邮箱中
